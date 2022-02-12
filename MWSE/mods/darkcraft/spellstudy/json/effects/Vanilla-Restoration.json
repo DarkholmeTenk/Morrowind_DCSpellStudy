@@ -1,0 +1,183 @@
+[
+  {
+    "effectId": "restoreAttribute",
+    "tags": [
+      "restore",
+      "attr"
+    ]
+  },
+  {
+    "effectId": "restoreHealth",
+    "tags": [
+      "restore",
+      "health"
+    ]
+  },
+  {
+    "effectId": "restoreMagicka",
+    "tags": [
+      "restore",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "restoreFatigue",
+    "tags": [
+      "restore",
+      "fatigue"
+    ]
+  },
+  {
+    "effectId": "restoreSkill",
+    "tags": [
+      "restore",
+      "skill"
+    ]
+  },
+  {
+    "effectId": "fortifyAttribute",
+    "tags": [
+      "infuse",
+      "attr"
+    ]
+  },
+  {
+    "effectId": "fortifyHealth",
+    "tags": [
+      "infuse",
+      "health"
+    ]
+  },
+  {
+    "effectId": "fortifyMagicka",
+    "tags": [
+      "infuse",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "fortifyFatigue",
+    "tags": [
+      "infuse",
+      "fatigue"
+    ]
+  },
+  {
+    "effectId": "fortifySkill",
+    "tags": [
+      "infuse",
+      "skill"
+    ]
+  },
+  {
+    "effectId": "fortifyMaximumMagicka",
+    "tags": [
+      "infuse",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "resistFire",
+    "tags": [
+      "resist",
+      "element",
+      "fire"
+    ]
+  },
+  {
+    "effectId": "resistFrost",
+    "tags": [
+      "resist",
+      "element",
+      "cold"
+    ]
+  },
+  {
+    "effectId": "resistShock",
+    "tags": [
+      "resist",
+      "element",
+      "shock"
+    ]
+  },
+  {
+    "effectId": "resistMagicka",
+    "tags": [
+      "resist",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "resistCommonDisease",
+    "tags": [
+      "resist",
+      "disease"
+    ]
+  },
+  {
+    "effectId": "resistBlightDisease",
+    "tags": [
+      "resist",
+      "disease",
+      "ash"
+    ]
+  },
+  {
+    "effectId": "resistCorprusDisease",
+    "tags": [
+      "resist",
+      "disease",
+      "ash"
+    ]
+  },
+  {
+    "effectId": "resistPoison",
+    "tags": [
+      "resist",
+      "poison"
+    ]
+  },
+  {
+    "effectId": "resistNormalWeapons",
+    "tags": [
+      "resist",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "resistParalysis",
+    "tags": [
+      "resist",
+      "paralysis"
+    ]
+  },
+  {
+    "effectId": "cureCommonDisease",
+    "tags": [
+      "cure",
+      "disease"
+    ]
+  },
+  {
+    "effectId": "cureBlightDisease",
+    "tags": [
+      "cure",
+      "disease",
+      "ash"
+    ]
+  },
+  {
+    "effectId": "curePoison",
+    "tags": [
+      "cure",
+      "poison"
+    ]
+  },
+  {
+    "effectId": "cureParalyzation",
+    "tags": [
+      "cure",
+      "paralysis"
+    ]
+  }
+]

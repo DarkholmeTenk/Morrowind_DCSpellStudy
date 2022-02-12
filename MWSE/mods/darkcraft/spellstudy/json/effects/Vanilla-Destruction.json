@@ -1,0 +1,191 @@
+[
+  {
+    "effectId": "damageHealth",
+    "tags": [
+      "damage",
+      "health"
+    ]
+  },
+  {
+    "effectId": "fireDamage",
+    "tags": [
+      "damage",
+      "health",
+      "element",
+      "fire"
+    ]
+  },
+  {
+    "effectId": "frostDamage",
+    "tags": [
+      "damage",
+      "health",
+      "element",
+      "cold"
+    ]
+  },
+  {
+    "effectId": "shockDamage",
+    "tags": [
+      "damage",
+      "health",
+      "element",
+      "shock"
+    ]
+  },
+  {
+    "effectId": "damageAttribute",
+    "tags": [
+      "damage",
+      "attr"
+    ]
+  },
+  {
+    "effectId": "drainAttribute",
+    "tags": [
+      "drain",
+      "attr"
+    ]
+  },
+  {
+    "effectId": "drainHealth",
+    "tags": [
+      "drain",
+      "health"
+    ]
+  },
+  {
+    "effectId": "damageFatigue",
+    "tags": [
+      "damage",
+      "fatigue"
+    ]
+  },
+  {
+    "effectId": "drainFatigue",
+    "tags": [
+      "drain",
+      "fatigue"
+    ]
+  },
+  {
+    "effectId": "damageMagicka",
+    "tags": [
+      "damage",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "drainMagicka",
+    "tags": [
+      "drain",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "damageSkill",
+    "tags": [
+      "damage",
+      "skill"
+    ]
+  },
+  {
+    "effectId": "drainSkill",
+    "tags": [
+      "drain",
+      "skill"
+    ]
+  },
+  {
+    "effectId": "disintegrateWeapon",
+    "tags": [
+      "damage",
+      "disintegrate",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "disintegrateArmor",
+    "tags": [
+      "damage",
+      "disintegrate",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "poison",
+    "tags": [
+      "damage",
+      "health",
+      "poison"
+    ]
+  },
+  {
+    "effectId": "weaknesstoFire",
+    "tags": [
+      "weakness",
+      "element",
+      "fire"
+    ]
+  },
+  {
+    "effectId": "weaknesstoFrost",
+    "tags": [
+      "weakness",
+      "element",
+      "frost"
+    ]
+  },
+  {
+    "effectId": "weaknesstoShock",
+    "tags": [
+      "weakness",
+      "element",
+      "shock"
+    ]
+  },
+  {
+    "effectId": "weaknesstoMagicka",
+    "tags": [
+      "weakness",
+      "arcane"
+    ]
+  },
+  {
+    "effectId": "weaknesstoCommonDisease",
+    "tags": [
+      "weakness",
+      "disease"
+    ]
+  },
+  {
+    "effectId": "weaknesstoBlightDisease",
+    "tags": [
+      "weakness",
+      "disease",
+      "ash"
+    ]
+  },
+  {
+    "effectId": "weaknesstoBlightDisease",
+    "tags": [
+      "weakness",
+      "disease",
+      "ash"
+    ]
+  },
+  {
+    "effectId": "weaknesstoPoison",
+    "tags": [
+      "weakness",
+      "poison"
+    ]
+  },
+  {
+    "effectId": "weaknesstoNormalWeapons",
+    "tags": [
+      "weakness",
+      "weapon"
+    ]
+  }
+]

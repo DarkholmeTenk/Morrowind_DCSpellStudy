@@ -1,0 +1,142 @@
+[
+  {
+    "effectId": "invisibility",
+    "tags": [
+      "infuse",
+      "perception",
+      "greater",
+      "sight"
+    ]
+  },
+  {
+    "effectId": "chameleon",
+    "tags": [
+      "infuse",
+      "perception",
+      "lesser",
+      "sight"
+    ]
+  },
+  {
+    "effectId": "light",
+    "tags": [
+      "infuse",
+      "light"
+    ]
+  },
+  {
+    "effectId": "sanctuary",
+    "tags": [
+      "infuse",
+      "armor",
+      "perception"
+    ]
+  },
+  {
+    "effectId": "nightEye",
+    "tags": [
+      "sight",
+      "light"
+    ]
+  },
+  {
+    "effectId": "charm",
+    "tags": [
+      "infuse",
+      "mood",
+      "friend"
+    ]
+  },
+  {
+    "effectId": "paralyze",
+    "tags": [
+      "infuse",
+      "paralysis"
+    ]
+  },
+  {
+    "effectId": "silence",
+    "tags": [
+      "damage",
+      "sound"
+    ]
+  },
+  {
+    "effectId": "blind",
+    "tags": [
+      "damage",
+      "sight"
+    ]
+  },
+  {
+    "effectId": "sound",
+    "tags": [
+      "infuse",
+      "sound"
+    ]
+  },
+  {
+    "effectId": "calmHumanoid",
+    "tags": [
+      "calm",
+      "human",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "calmCreature",
+    "tags": [
+      "calm",
+      "animal",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "frenzyHumanoid",
+    "tags": [
+      "frenzy",
+      "human",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "frenzyCreature",
+    "tags": [
+      "frenzy",
+      "animal",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "demoralizeHumanoid",
+    "tags": [
+      "damage",
+      "human",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "demoralizeCreature",
+    "tags": [
+      "damage",
+      "animal",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "rallyHumanoid",
+    "tags": [
+      "restore",
+      "human",
+      "mood"
+    ]
+  },
+  {
+    "effectId": "rallyCreature",
+    "tags": [
+      "restore",
+      "animal",
+      "mood"
+    ]
+  }
+]

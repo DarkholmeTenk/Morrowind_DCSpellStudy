@@ -1,0 +1,234 @@
+[
+  {
+    "id": "health",
+    "name": "Health"
+  },
+  {
+    "id": "restore",
+    "name": "Restorative"
+  },
+  {
+    "id": "arcane",
+    "name": "Arcane"
+  },
+  {
+    "id": "damage",
+    "name": "Damage"
+  },
+  {
+    "id": "element",
+    "name": "Elemental"
+  },
+  {
+    "id": "fire",
+    "name": "Fire"
+  },
+  {
+    "id": "cold",
+    "name": "Cold"
+  },
+  {
+    "id": "shock",
+    "name": "Shock"
+  },
+  {
+    "id": "protection",
+    "name": "Protection"
+  },
+  {
+    "id": "sight",
+    "name": "Sight"
+  },
+  {
+    "id": "infuse",
+    "name": "Infusion"
+  },
+  {
+    "id": "fatigue",
+    "name": "Fatigue"
+  },
+  {
+    "id": "magicka",
+    "name": "Magicka"
+  },
+  {
+    "id": "weakness",
+    "name": "Weakness"
+  },
+  {
+    "id": "drain",
+    "name": "Drain"
+  },
+  {
+    "id": "poison",
+    "name": "Poison"
+  },
+  {
+    "id": "skill",
+    "name": "Skill"
+  },
+  {
+    "id": "attr",
+    "name": "Attribute"
+  },
+  {
+    "id": "disease",
+    "name": "Disease"
+  },
+  {
+    "id": "ash",
+    "name": "Ash"
+  },
+  {
+    "id": "disintegrate",
+    "name": "Disintegrate"
+  },
+  {
+    "id": "armor",
+    "name": "Armour"
+  },
+  {
+    "id": "weapon",
+    "name": "Weapon"
+  },
+  {
+    "id": "resist",
+    "name": "Resist"
+  },
+  {
+    "id": "cure",
+    "name": "Cure"
+  },
+  {
+    "id": "paralysis",
+    "name": "Paralysis"
+  },
+  {
+    "id": "carry",
+    "name": "Carry Weight"
+  },
+  {
+    "id": "lock",
+    "name": "Lock"
+  },
+  {
+    "id": "water",
+    "name": "Water"
+  },
+  {
+    "id": "movement",
+    "name": "Movement"
+  },
+  {
+    "id": "air",
+    "name": "Air"
+  },
+  {
+    "id": "friend",
+    "name": "Friend"
+  },
+  {
+    "id": "enemy",
+    "name": "Enemy"
+  },
+  {
+    "id": "mood",
+    "name": "Mood"
+  },
+  {
+    "id": "perception",
+    "name": "Perception"
+  },
+  {
+    "id": "sight",
+    "name": "Sight"
+  },
+  {
+    "id": "light",
+    "name": "Light"
+  },
+  {
+    "id": "sound",
+    "name": "Sound"
+  },
+  {
+    "id": "calm",
+    "name": "Calm"
+  },
+  {
+    "id": "frenzy",
+    "name": "Frenzy"
+  },
+  {
+    "id": "human",
+    "name": "Humanoid"
+  },
+  {
+    "id": "animal",
+    "name": "Creature"
+  },
+  {
+    "id": "teleport",
+    "name": "Teleport"
+  },
+  {
+    "id": "distance",
+    "name": "Distance"
+  },
+  {
+    "id": "soul",
+    "name": "Soul"
+  },
+  {
+    "id": "divine",
+    "name": "Divine"
+  },
+  {
+    "id": "absorb",
+    "name": "Absorb"
+  },
+  {
+    "id": "reflect",
+    "name": "Reflect"
+  },
+  {
+    "id": "summon",
+    "name": "Summon"
+  },
+  {
+    "id": "undead",
+    "name": "Undead"
+  },
+  {
+    "id": "daedra",
+    "name": "Daedra"
+  },
+  {
+    "id": "undead",
+    "name": "Undead"
+  },
+  {
+    "id": "bonewalker",
+    "name": "Bonewalker"
+  },
+  {
+    "id": "saint",
+    "name": "Saint"
+  },
+  {
+    "id": "greater",
+    "name": "Greater"
+  },
+  {
+    "id": "mage",
+    "name": "Mage"
+  },
+  {
+    "id": "lesser",
+    "name": "Lesser"
+  },
+  {
+    "id": "twilight",
+    "name": "Twilight"
+  }
+]

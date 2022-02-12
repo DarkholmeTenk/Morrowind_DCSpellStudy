@@ -1,0 +1,133 @@
+[
+  {
+    "effectId": "dispel",
+    "tags": [
+      "cure",
+      "arcane"
+    ]
+  },
+  {
+    "effectId": "soultrap",
+    "tags": [
+      "soul",
+      "lock"
+    ]
+  },
+  {
+    "effectId": "telekinesis",
+    "tags": [
+      "infuse",
+      "distance"
+    ]
+  },
+  {
+    "effectId": "mark",
+    "tags": [
+      "teleport",
+      "infuse",
+      "lock"
+    ]
+  },
+  {
+    "effectId": "recall",
+    "tags": [
+      "teleport",
+      "infuse",
+      "light"
+    ]
+  },
+  {
+    "effectId": "divineIntervention",
+    "tags": [
+      "teleport",
+      "divine"
+    ]
+  },
+  {
+    "effectId": "almsiviIntervention",
+    "tags": [
+      "teleport",
+      "divine"
+    ]
+  },
+  {
+    "effectId": "detectAnimal",
+    "tags": [
+      "infuse",
+      "perception",
+      "animal"
+    ]
+  },
+  {
+    "effectId": "detectEnchantment",
+    "tags": [
+      "infuse",
+      "perception",
+      "soul"
+    ]
+  },
+  {
+    "effectId": "detectKey",
+    "tags": [
+      "infuse",
+      "perception",
+      "lock"
+    ]
+  },
+  {
+    "effectId": "spellAbsorption",
+    "tags": [
+      "infuse",
+      "absorb",
+      "arcane"
+    ]
+  },
+  {
+    "effectId": "reflect",
+    "tags": [
+      "infuse",
+      "reflect",
+      "damage"
+    ]
+  },
+  {
+    "effectId": "absorbAttribute",
+    "tags": [
+      "damage",
+      "absorb",
+      "attr"
+    ]
+  },
+  {
+    "effectId": "absorbHealth",
+    "tags": [
+      "damage",
+      "absorb",
+      "health"
+    ]
+  },
+  {
+    "effectId": "absorbMagicka",
+    "tags": [
+      "damage",
+      "absorb",
+      "magicka"
+    ]
+  },
+  {
+    "effectId": "absorbFatigue",
+    "tags": [
+      "damage",
+      "absorb",
+      "fatigue"
+    ]
+  },
+  {
+    "effectId": "absorbSkill",
+    "tags": [
+      "damage",
+      "absorb",
+      "skill"
+    ]
+  }
+]

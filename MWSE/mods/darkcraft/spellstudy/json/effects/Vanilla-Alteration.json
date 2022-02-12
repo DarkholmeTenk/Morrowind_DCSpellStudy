@@ -1,0 +1,108 @@
+[
+  {
+    "effectId": "shield",
+    "tags": [
+      "infuse",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "fireShield",
+    "tags": [
+      "infuse",
+      "armor",
+      "element",
+      "fire"
+    ]
+  },
+  {
+    "effectId": "lightningShield",
+    "tags": [
+      "infuse",
+      "armor",
+      "element",
+      "cold"
+    ]
+  },
+  {
+    "effectId": "frostShield",
+    "tags": [
+      "infuse",
+      "armor",
+      "element",
+      "shock"
+    ]
+  },
+  {
+    "effectId": "waterBreathing",
+    "tags": [
+      "water",
+      "air"
+    ]
+  },
+  {
+    "effectId": "swiftSwim",
+    "tags": [
+      "water",
+      "air",
+      "movement"
+    ]
+  },
+  {
+    "effectId": "waterWalking",
+    "tags": [
+      "water",
+      "movement"
+    ]
+  },
+  {
+    "effectId": "burden",
+    "tags": [
+      "damage",
+      "carry"
+    ]
+  },
+  {
+    "effectId": "feather",
+    "tags": [
+      "infuse",
+      "carry"
+    ]
+  },
+  {
+    "effectId": "jump",
+    "tags": [
+      "movement",
+      "air"
+    ]
+  },
+  {
+    "effectId": "levitate",
+    "tags": [
+      "infuse",
+      "movement",
+      "air"
+    ]
+  },
+  {
+    "effectId": "slowFall",
+    "tags": [
+      "infuse",
+      "air"
+    ]
+  },
+  {
+    "effectId": "lock",
+    "tags": [
+      "infuse",
+      "lock"
+    ]
+  },
+  {
+    "effectId": "open",
+    "tags": [
+      "cure",
+      "lock"
+    ]
+  }
+]

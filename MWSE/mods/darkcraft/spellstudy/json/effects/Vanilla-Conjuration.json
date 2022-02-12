@@ -1,0 +1,236 @@
+[
+  {
+    "effectId": "summonScamp",
+    "tags": [
+      "summon",
+      "lesser",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonClannfear",
+    "tags": [
+      "summon",
+      "animal",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonDaedroth",
+    "tags": [
+      "summon",
+      "poison",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonDremora",
+    "tags": [
+      "summon",
+      "humanoid",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonAncestralGhost",
+    "tags": [
+      "summon",
+      "lesser",
+      "undead"
+    ]
+  },
+  {
+    "effectId": "summonSkeletalMinion",
+    "tags": [
+      "summon",
+      "humanoid",
+      "undead"
+    ]
+  },
+  {
+    "effectId": "summonBonewalker",
+    "tags": [
+      "summon",
+      "bonewalker",
+      "undead"
+    ]
+  },
+  {
+    "effectId": "summonGreaterBonewalker",
+    "tags": [
+      "summon",
+      "greater",
+      "bonewalker",
+      "undead"
+    ]
+  },
+  {
+    "effectId": "summonBonelord",
+    "tags": [
+      "summon",
+      "arcane",
+      "undead"
+    ]
+  },
+  {
+    "effectId": "summonWingedTwilight",
+    "tags": [
+      "summon",
+      "air",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonHunger",
+    "tags": [
+      "summon",
+      "absorb",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonGoldenSaint",
+    "tags": [
+      "summon",
+      "saint",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonFlameAtronach",
+    "tags": [
+      "summon",
+      "fire",
+      "elemental",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonFrostAtronach",
+    "tags": [
+      "summon",
+      "cold",
+      "elemental",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonStormAtronach",
+    "tags": [
+      "summon",
+      "shock",
+      "elemental",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonCenturionSphere",
+    "tags": [
+      "summon",
+      "saint",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "summonFabricant",
+    "tags": [
+      "summon",
+      "fire",
+      "elemental",
+      "daedra"
+    ]
+  },
+  {
+    "effectId": "callWolf",
+    "tags": [
+      "summon",
+      "lesser",
+      "animal"
+    ]
+  },
+  {
+    "effectId": "callBear",
+    "tags": [
+      "summon",
+      "greater",
+      "animal"
+    ]
+  },
+  {
+    "effectId": "boundCuirass",
+    "tags": [
+      "summon",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "boundHelm",
+    "tags": [
+      "summon",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "boundBoots",
+    "tags": [
+      "summon",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "boundShield",
+    "tags": [
+      "summon",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "boundGloves",
+    "tags": [
+      "summon",
+      "armor"
+    ]
+  },
+  {
+    "effectId": "boundDagger",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "boundLongsword",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "boundMace",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "boundBattleAxe",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "boundSpear",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  },
+  {
+    "effectId": "boundLongbow",
+    "tags": [
+      "summon",
+      "weapon"
+    ]
+  }
+]
